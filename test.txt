@@ -1,1 +1,3 @@
 s收到你二货vi你杯具背包
+添加2
+$ git stash apply stash@{0}
